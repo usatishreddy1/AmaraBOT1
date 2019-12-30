@@ -1,0 +1,503 @@
+['web,design,dreamweaver,macromedia,dreamweaver,mx,firework,mx,document,describes,use,dreamweaver,firework,develop,web,site,quickly,easily']:Web Design with Dreamweaver Macromedia Dreamweaver MX and Fireworks MX This document describes how you can use Dreamweaver and Fireworks to develop Web sites quickly and easily.
+['create,edit,optimize,graphic,firework,import,dreamweaver,layout,page,set,link,manage,site']:You can create, edit, and optimize your graphics in Fireworks then import them into Dreamweaver to layout pages, set up links, and manage your site.
+['written,use,academic,computing,web,cluster']:It was written for use in the Academic Computing Web clusters.
+['august,table,content,overview,begin,dreamweaver,dreamweaver,interface,defining,site,creating,web,page,page,layout,table,working,graphic,firework,creating,graphic,working,text,alignment,adding,effect,saving,original,optimizing,graphic,web,creating,navigation,button,importing,firework,html,dreamweaver,adding,navigation,link,importing,cleaning,word,html,inserting,content,inserting,email,link,getting,site,web,information,assistance,division,stanford,university,library,academic,information,resource,stanford,university,academic,computing,board,trustee,leland,stanford,junior,university,overview,workshop,learn,cid,create,site,map,storyboard,cid,define,site,manage,file,dreamweaver,cid,design,optimize,export,image,firework,cid,build,web,page,table,text,graphic,button,rollover']:August 2003  Table of Contents Overview.................................................................................................................................... 2 Before You Begin ...................................................................................................................... 2 About Dreamweaver.................................................................................................................. 4 Dreamweaver Interface ............................................................................................................. 5 Defining Your Site...................................................................................................................... 8 Creating A Web Page.............................................................................................................. 10 Page Layout with Tables ......................................................................................................... 13 Working with Graphics in Fireworks ........................................................................................ 14 Creating Graphics.................................................................................................................... 16 Working with Text and Alignment ............................................................................................ 18 Adding Effects ......................................................................................................................... 19 Saving Your Original................................................................................................................ 20 Optimizing Graphics for the Web............................................................................................. 21 Creating Navigation Buttons.................................................................................................... 22 Importing Fireworks HTML into Dreamweaver ........................................................................ 28 Adding Navigation Links .......................................................................................................... 31 Importing and Cleaning Up Word HTML.................................................................................. 32 Inserting Content ..................................................................................................................... 33 Inserting an Email Link ............................................................................................................ 34 Getting Your Site on the Web.................................................................................................. 34 For More Information and Assistance...................................................................................... 35  A division of Stanford University Libraries and Academic Information Resources  Stanford University Academic Computing   2003 by the Board of Trustees of the Leland Stanford Junior University  Overview In this workshop, you will learn how to (cid127)  create a site map and storyboard; (cid127)  define a site and manage files in Dreamweaver; (cid127)  design, optimize and export images in Fireworks; and (cid127)  build Web pages with tables, text, graphics and button rollovers.
+['begin,first,step,good,web,design,planning']:Before You Begin The first step in good Web design is planning.
+['need,consider,audience,goal,site,youll,create,effective,layout,linking,structure,page']:You need to consider who your audience is, what your goals for the site are, and how youll create an effective layout and linking structure for your pages.
+['best,way,visualize,site,organized,create,site,map,storyboard']:The best way to visualize how your site will be organized is to create a site map and storyboard.
+['site,map,guide,user,navigate,page']:The site map will be your guide to how the user will navigate between the pages.
+['see,figure']:(See Figure 1.)
+['figure,web,design,dreamweaver,storyboard,indicate,page,laid,including,information,navigation,element,located']:Figure 1  Web Design with Dreamweaver - 2  The storyboard will indicate how each page is laid out including where information and navigation elements are located.
+['see,figure']:(See Figure 2.)
+['note,best,sketch,several,layout,paper,first,launching,dreamweaver,firework']:NOTE Its best to sketch several layouts on paper first before launching Dreamweaver and Fireworks.
+['figure,web,design,tip,cid,know,audience,visitor,site,latest,equipment,newest,browser,fast,connection']:Figure 2  Web Design Tips (cid127)  Know Your Audience Will visitors to your site have the latest equipment, newest browsers, and fast connections?
+['looking,page,inch,monitor,k,modem']:Or will they be looking at your pages on a 15-inch monitor over a 56K modem?
+['cid,consistent,establish,consistent,look,feel,site']:(cid127)  Be Consistent Establish a consistent look and feel for your site.
+['keep,navigation,logo,place,page']:Keep your navigation and logos in the same place on all pages.
+['choose,color,carefully,use,give,visual,cue,user,let,know,site']:Choose your colors carefully and use them to give visual cues to users to let them know where they are in the site.
+['cid,keep,simple,limit,number,link,per,page']:(cid127)  Keep It Simple Limit the number of links to 5 or 6 per page.
+['quickest,way,site,visitor,get,lost,offer,many,choice']:The quickest way for a site visitor to get lost is to offer too many choices.
+['make,sure,user,get,page,site,within,click']:Make sure that the user can get to any page in your site within 3 clicks.
+['course,correct,way,organize,site,give,thought,name,folder,file,place']:Of course, there is no correct way to organize a site, but give some thought to how you name folders and files and to where you place them.
+['file,naming,convention,cid,space,file,name']:File Naming Conventions  (cid127)  No spaces in file names.
+['use,underscore,instead']:(Use_underscores_instead.)
+['cid,upper,case,letter']:(cid127)  No upper-case letters.
+['cid,unusual,character,etc']:(cid127)  No unusual characters (/, , ., , etc.).
+['web,design,dreamweaver,site,structure,order,dreamweaver,keep,track,link,web,page,dependent,file,image,used,page,necessary,define,folder,hard,disk,local,root,folder,save,file,site,folder']:Web Design with Dreamweaver - 3  Site Structure In order for Dreamweaver to keep track of links between Web pages and dependent files (such as the images used on the pages), it is necessary to define a folder on your hard disk as the local root folder and to save all the files for your site in that folder.
+['local,root,folder,contain,html,file,site,well,image,asset,may,eventually,include,page,e,g,audio,video,flash,animation']:The local root folder should contain the HTML files for your site as well as all images and any other assets you may eventually include on your pages (e.g., audio, video, Flash animations).
+['define,new,site,dreamweaver,create,new,folder,move,asset,folder']:Before you define your new site in Dreamweaver, you will create a new folder and then move all of your assets into that folder.
+['throughout,workshop,creating,new,graphic,file,add,asset,folder']:Throughout this workshop you will be creating new graphics files that you will add to the assets folder.
+['']:1.
+['double,click,user,space,icon,located,desktop']:Double-click the User Space icon located on the desktop.
+['inside,user,space,create,new,folder,going,file,new,folder,name,web,workshop']:Inside User Space, create a new  folder by going to File>New Folder and name it web_workshop.
+['remember,use,underscore,space,name']:(Remember, use an underscore, not a space in the name.)
+['web,workshop,folder,local,root,folder']:The web_workshop folder will be your local root folder.
+['']:2.
+['double,click,web,workshop,folder,create,another,new,folder,inside,name,asset']:Now double-click the web_workshop folder, create another new folder inside and name it  assets.
+['see,figure']:(See Figure 3.)
+['image,stored']:This is where your images will be stored.
+['figure,dreamweaver,dreamweaver,hypertext,markup,language,html,editor']:Figure 3  About Dreamweaver Dreamweaver is a hypertext markup language (HTML) editor.
+['markup,language,set,direction,determine,document,look,world,wide,web,www']:Markup languages are sets of directions that determine how a document will look on the World Wide Web (WWW).
+['direction,called,tag,markup']:These directions are called tags or markups.
+['web,browser,software,application,interpret,read,mark,language,display,document,accordingly']:Web browsers are software applications that interpret or read this mark-up language and display documents accordingly.
+['common,browser,internet,explorer,netscape,navigator']:The most common browsers are Internet Explorer and Netscape Navigator.
+['markup,language,tell,web,browser,display,text,graphic,sound,movie,animation,file']:Markup languages tell Web browsers how to display text, graphics, sound, movie, and animation files.
+['web,design,dreamweaver,dreamweaver,also,known,wysiwyg,pronounced,wiz,e,wig,editor']:Web Design with Dreamweaver - 4  Dreamweaver is also known as a WYSIWYG (pronounced wiz - e - wig) editor.
+['wysiwyg,stand,see,get']:WYSIWYG stands for What You See Is What You Get.
+['mean,change,something,document,dreamweaver,show,result,instantaneously']:It means you can change something in your document and Dreamweaver will show you the result instantaneously.
+['dont,launch,browser,see,change']:You dont have to launch a browser to see the changes.
+['dreamweaver,interface']:Dreamweaver Interface  1.
+['launch,dreamweaver,mx,going,hard,disk,upper,left,corner,screen,acomp,hd,application,macromedia,dreamweavermx,dreamweaver,mx,clicking,dreamweaver,mx,icon,menu,bar,bottom,screen']:Launch Dreamweaver MX by going to the hard disk (in the upper left corner of the screen)  Acomp HD>Applications>Macromedia DreamweaverMX>Dreamweaver MX or by clicking the Dreamweaver MX icon on the menu bar at the bottom of the screen.
+['note,launch,dreamweaver,automatically,open,new,document']:NOTE When you launch Dreamweaver, it automatically opens a new document.
+['dreamweaver,interface,comprised,window,palette,inspector,menu']:The Dreamweaver interface is comprised of windows, palettes, inspectors, and menus.
+['miniature,floating,window,used,adjust,particular,set,property,called,palette,inspector']:The miniature floating windows used to adjust particular sets of properties are called palettes or inspectors.
+['use,following,palette,inspector,often,document,window,canvas,construct,page']:You will use the following palettes and inspectors most often Document Window The canvas on which you construct your page.
+['see,figure']:(See Figure 4.)
+['page,title,preview,browser,tag,selector,download,status,figure,tag,selector,feature,document,window,enables,select,specific,element,page,table,cell,within,table,text,within,cell,table']:Page Title  Preview in Browser  Tag Selector  Download Status  Figure 4  Tag Selector A feature of the document window that enables you to select specific elements on your page such as a table, a cell within a table or text within a cell in a table.
+['see,figure']:(See Figure 4.)
+['property,inspector,modifies,property,selected,object,text,image,table']:Properties Inspector Modifies properties of selected objects such as text, images, and tables.
+['property,inspector,context,sensitive']:The Properties Inspector is context-sensitive.
+['offer,different,parameter,option,depending,object,selected']:It offers different parameters and options depending on what object you have selected.
+['arrow,lower,right,corner,expands,window,display,option']:It has an arrow in its lower-right corner, which expands the window to display more options.
+['see,figure']:(See Figure 5.)
+['web,design,dreamweaver,figure,insert,palette,display,short,cut,button,placing,common,item,document']:Web Design with Dreamweaver - 5  Figure 5  Insert Palette Displays short cut buttons for placing common items in your document.
+['see,figure']:(See Figure 6.)
+['insert,table,insert,image,insert,firework,html,figure,access,dreamweavers,palette,window,launcher,window,menu,top,screen']:Insert Table  Insert Image  Insert Fireworks HTML  Figure 6  You can access all of Dreamweavers palettes, windows and launchers from the Window menu at the top of the screen.
+['dreamweaver,also,provides,function,key,shortcut,every,window']:Dreamweaver also provides function key shortcuts to every window.
+['check,mark,appear,next,palette,window,launcher,open,computer,screen']:Check marks appear next to palettes, windows, and launchers that are open on your computer screen.
+['see,figure']:(See Figure 7.)
+['web,design,dreamweaver,figure,example,see,dreamweavers,source,code,press,f,view,html,source,try,several,function,key,see,window,inspector,palette,launch']:Web Design with Dreamweaver - 6  Figure 7  For example To see Dreamweavers source code Press F10 to view HTML Source then try several of the function keys to see what windows /inspectors/palettes they launch.
+['close,inspector,press,function,key,launched,inspector']:To close the inspector, press the same function key that launched the inspector.
+['web,design,dreamweaver,youve,received,introduction,interface,document,window,go,file,close,click,close,box,upper,left,corner,document,window']:Web Design with Dreamweaver - 7  Now that youve received an introduction to the interface and document window, go to File>Close or click the close box in the upper left corner of the document window.
+['youll,creating,file,within,dreamweavers,site,window']:Youll be creating a file from within Dreamweavers site window.
+['defining,site']:Defining Your Site  1.
+['go,site,new,site,click,advanced,tab,top,window']:Go to Site>New Site and click the Advanced tab at the top of the window.
+['type,web,design,workshop,site,name']:Type Web  Design Workshop for the Site Name.
+['notice,capital,letter,space,site,name,used,inside,dreamweaver,web']:Notice that you can have capital letters and spaces here as the Site Name is used only inside Dreamweaver and not on the Web.
+['']:2.
+['click,browse,file,icon,far,right,local,root,folder,field']:Now click the Browse for File icon to the far right of the Local Root Folder Field.
+['see,figure']:(See Figure 8.)
+['macintosh,user,find,web,workshop,folder,click,click,choose,button']:Macintosh Users Find the web_workshop folder; click once on it, and then click the Choose button.
+['window,user,find,web,workshop,folder,double,click,choose,select']:Windows Users Find the web_workshop folder then double-click it and choose Select.
+['web,design,dreamweaver,browse,file,figure']:Web Design with Dreamweaver - 8  Browse for File  Figure 8  3.
+['sure,enable,cache,box,checked,click,ok,look,dreamweavers,site,window,youll,notice,folder,created,earlier,part,site']:Be sure that the Enable Cache box is checked, and then click OK. Look at Dreamweavers Site Window, and youll notice that the folders you created earlier are now part of the site.
+['see,figure']:(See Figure 9.)
+['web,design,dreamweaver,figure,creating,web,page']:Web Design with Dreamweaver - 9  Figure 9  Creating a Web Page  1.
+['created,local,root,folder,defined,site,ready,create,first,page']:Now that you have created a local root folder and defined a site, you are ready to create your  first page.
+['macintosh,user,cid,key,held,click,site,web,design,workshop,folder,icon,inside,right,pane,site,window']:Macintosh Users With the (cid1) key held down, click on the Site  Web Design Workshop folder icon inside the right pane of the site window.
+['menu,pop,choose,new,file']:When the menu pops up, choose New File.
+['see,figure']:(See Figure 10.)
+['window,user,right,click,right,hand,pane,site,window,choose,new,file']:Windows Users Right click in the right-hand pane of the site window and choose New File.
+['see,figure']:(See Figure 10.)
+['web,design,dreamweaver,figure']:Web Design with Dreamweaver - 10  Figure 10  2.
+['see,file,named,untitled,html,site,window']:You will now see an file named untitled.html in the site window.
+['filename,highlighted,type,index,html']:With the filename  highlighted, type index.html.
+['note,one,file,named,index,html,must,stored,root,level,site']:NOTE One file named index.html must be stored at the root level of your site.
+['server,know,open,page,first']:Most servers know to open this page first.
+['reason,home,page,web,site,saved,index,html']:For this reason, the home page in your Web site should be saved as index.html.
+['']:3.
+['html,file,called,index,html,root,level,site']:You now have an HTML file called index.html at the root level of your site.
+['site,window,double,click,index,html,file,open']:While in the site  window, double-click the index.html file to open it.
+['']:4.
+['click,title,field,type,name']:Click in the Title field and type Your Name.
+['see,figure']:(See Figure 11.)
+['note,always,manage,file,folder,using,dreamweaver,site,window']:NOTE Always manage your files and folders using the Dreamweaver site window.
+['create,rename,move,delete,file,folder,site,window,dreamweaver,automatically,update,site,prevent,broken,link']:If you create, rename, move or delete files and folders from the site window, Dreamweaver will automatically update your site which will prevent broken links.
+['web,design,dreamweaver,page,title,figure,note,page,title,file,name']:Web Design with Dreamweaver - 11  Page Title  Figure 11  NOTE The page title is not a file name.
+['space,special,character,upper,case,letter']:It can have spaces, special characters and upper-case letters.
+['text,used,page,title,picked,search,engine,also,appears,user,browser,bookmark,site']:Text used in page titles is picked up by search engines and also appears in a users browser when he or she bookmarks your site.
+['']:5.
+['go,file,save']:Go to File>Save.
+['general,rule,good,idea,save,file,completing,major,step']:As a general rule, its a good idea to save your file after completing major steps.
+['browser,dreamweaver,require,quite,bit,memory,dreamweaver,may,occasionally,lock,freeze']:Because browsers and Dreamweaver require quite a bit of memory, Dreamweaver may occasionally lock up or freeze.
+['note,computer,lock,need,force,quit,macintosh,hold,cid,option,esc,key,simultaneously']:NOTE If your computer locks up and you need to do a force quit on a Macintosh; hold down the (cid1),option and esc keys simultaneously.
+['dialog,box,appears,select,application,want,quit,click,force,quit,button']:When the dialog box appears, select the application that you want to quit and click the Force Quit button.
+['web,design,dreamweaver,page,layout,table,table,originally,developed,insert,data,web,page']:Web Design with Dreamweaver - 12  Page Layout with Tables Tables were originally developed to insert data into Web pages.
+['day,web,designer,use,table,layout,purpose,turning,table,border,make,table,invisible']:These days, Web designers use tables for layout purposes by turning off table borders to make the table invisible.
+['allows,table,act,grid,page,layout']:This allows the table to act as a grid for page layout.
+['put,image,text,row,column,table,table,cell,hold,information,place']:You can put images and text into rows and columns of the table and the table cells will hold the information in place.
+['see,figure']:(See Figure 12.)
+['fixed,pixel,versus,percentage,based,table,percentage,based,table,stretch,shrink,fit,width,browser']:Fixed-Pixel versus Percentage-Based Tables A percentage-based table will stretch or shrink to fit the width of the browser.
+['whenever,user,resizes,browser,window,layout,change']:Whenever a user resizes his/her browser window, your layout will change!
+['want,exercise,control,way,page,display,pixel,based,table,best']:If you want to exercise more control over the way your page displays, pixel-based tables are best.
+['example,table,column,row,cell,figure,youll,create,table,text,graphic,home,page']:Example of a Table  COLUMN  ROW  CELL  Figure 12  Now youll create a table for some text and a graphic on the home page.
+['']:1.
+['insert,palette,displayed,index,page,go,window,insert']:If your Insert Palette is not displayed above the index page, go to Window>Insert.
+['insert,palette,click,insert,table,appears']:In the  Insert Palette click the Insert Table  appears.
+['create,row,column']:Create 3 rows and 2 columns.
+['set,width,pixel']:Set the width at 700 pixels.
+['delete,border,spacing,typing,border,cell,spacing,cell,padding,field,property,inspector']:Delete the border and spacing by typing 0 in the Border, Cell spacing and Cell padding fields in the Properties Inspector.
+['click,ok,icon']:Click OK.   icon.
+['see,figure']:(See Figure 13.)
+['insert,table,dialog,box,web,design,dreamweaver,note,cid,cell,padding,add,room,inside,table,cell,cell,spacing,add,border,width,table']:The Insert Table dialog box  Web Design with Dreamweaver - 13  NOTE(cid1) Cell Padding adds room inside the table cell, Cell Spacing adds to the border width of a table.
+['figure']:Figure 13  2.
+['take,look,code,dreamweaver,created,highlight,table,holding,cursor,top,left,cell,cursor,turn,bold,downward,pointing,arrow']:To take a look at the code Dreamweaver created, highlight the table by holding your cursor  above the top, left cell until the cursor turns into a bold, downward pointing arrow.
+['click,hold,drag,highlight,table,cell']:Then, click, hold and drag to highlight all the table cells.
+['highlighting,table,dreamweaver,highlight,html,code,involved,table,source,view']:By highlighting the table, Dreamweaver highlights all the HTML code involved with the table in source view.
+['press,f,bring,html,source,window']:Press F10 to bring up the HTML Source Window.
+['look,code']:Look at all that code!
+['click,blank,area,table,deselect']:Click in a blank area off the table to deselect it.
+['close,html,source,window,pressing,f']:Close the HTML Source Window by pressing F10 again.
+['']:3.
+['go,file,save,save,addition,index,html,page']:Go to File>Save to save your additions to your index.html page.
+['youve,set,index,page,launch,firework,create,graphic']:Now that youve set up your index page, launch Fireworks to create your graphics.
+['working,graphic,firework,firework,image,editor,allows,create,edit,optimize,graphic,use,web']:Working with Graphics in Fireworks Fireworks is an image editor that allows you to create, edit, and optimize graphics for use on the Web.
+['native,file,format,saving,firework,graphic,png,firework,also,support,psd,photoshop,file']:The native file format for saving Fireworks graphics is .png but Fireworks also supports .psd (Photoshop) files.
+['image,need,exported,either,gif,jpg,file,used,web']:Images need to be exported as either .gif or .jpg files before they can be used on the Web.
+['gif,stand,graphic,interchange,format']:GIF stands for Graphics Interchange Format.
+['one,two,file,format,putting,graphic,web,page']:It is one of two file formats for putting graphics on your Web pages.
+['gif,file,use,extension,gif']:GIF files use the extension .gif.
+['use,format,image,distinct,color,illustration,cartoon,icon,button,text']:Use this format for images with only a few distinct colors such as illustrations, cartoon, icons, buttons and text.
+['gifs,support,transparency,bit,color']:GIFs support transparency and 8-bit color.
+['jpeg,stand,joint,photographic,expert,group']:JPEG stands for Joint Photographic Experts Group.
+['file,extension,jpg']:Its file extension is .jpg.
+['support,transparency,handle,far,color,information,bit,gifs']:It does not support transparency but it handles far more color information (24-bit) than GIFs.
+['file,save,format,would,photograph,realistic,artwork,full,color,grayscale,image,continuous,variation,color']:Files to save in this format would be photographs or realistic artwork and other full-color or grayscale images with continuous variations in color.
+['information,see,academic,computing,handout,graphic,file,format,glance,document,rack,meyer,library,web,http,acomp,stanford,edu,acpubs']:For more information, see the Academic Computing handout Graphic File Formats at a Glance in the document racks in Meyer Library or on the Web at http//acomp.stanford.edu/acpubs.
+['web,design,dreamweaver']:Web Design with Dreamweaver - 14  1.
+['launch,firework,mx,going,hard,disk,upper,left,corner,screen,acomp,hd,application,macromedia,firework,mx,firework,mx,clicking,firework,mx,icon,menu,bar,bottom,screen']:Launch Fireworks MX by going to the hard disk (in the upper left corner of the screen)  Acomp HD>Applications>Macromedia Fireworks MX>Fireworks MX or by clicking the Fireworks MX icon on the menu bar at the bottom of the screen.
+['']:2.
+['go,file,open,select,quad,png,acomp,hd,tutorial,web,design,folder']:Go to File>Open, and select quad.png from the Acomp HD>Tutorials>Web Design  folder.
+['']:3.
+['go,file,export,preview,click,preview,button']:Go to File>Export Preview and click the 4 Preview button.
+['see,figure']:(See Figure 14.)
+['click,second,pane,select,quality,setting,pull,slider,near,top,left,panel,click,third,pane,select,click,fourth,pane,select']:Now click in  the second pane and select 70% on the quality setting pull down slider near the top of the left panel, click in the third pane and select 60% then click the fourth pane and select 50%.
+['experiment,different,quality,percentage,compression']:Experiment with different Quality percentages for the compression.
+['want,get,highest,image,quality,smallest,file,size']:You want to get the highest image quality with smallest file size.
+['file,size,quality,setting,figure,preview']:File Size  Quality Setting  Figure 14  4 Preview  4.
+['choose,setting,think,look,best,click,export']:Choose the setting you think looks best then click Export 5.
+['save,quad,jpg,file,asset,folder,inside,web,workshop,folder']:Save the quad.jpg file in the assets folder inside of the web_workshop folder.
+['']:6.
+['close,original,quad,png,file']:Close the original quad.png file.
+['dont,save,change,original']:Dont save the changes to the original.
+['web,design,dreamweaver,creating,graphic,firework,youll,create,title,bar,top,web,page']:Web Design with Dreamweaver - 15  Creating Graphics in Fireworks Youll now create a title bar for the top of your Web pages.
+['']:1.
+['go,file,new,choose,following,setting,pixel,wide,pixel,high,resolution,pixel,per,inch,ppi']:Go to File>New then choose the following settings 700 pixels wide by 100 pixels high with  a resolution of 72 pixels per inch (PPI).
+['see,figure']:(See Figure 15.)
+['click,ok']:Click OK.
+['figure,note,always,choose,pixel,inch,resolution,web,graphic']:Figure 15  NOTE Always choose 72 Pixels/Inch as the resolution for Web graphics.
+['optimal,setting,image,designed,viewing,computer,screen']:This is the optimal setting for images designed for viewing on computer screens.
+['using,higher,resolution,would,result,larger,image,bigger,file,size,would,increase,amount,time,required,web,page,load']:Using a higher resolution would result in larger images and bigger file sizes, which would increase the amount of time required for Web pages to load.
+['']:2.
+['view,menu,check,see,ruler,option,checked']:Under the View menu, check to see that the Rulers option is checked.
+['checked']:If it is not checked, do  so now.
+['']:3.
+['firework,tool,palette,click,rectangle,tool,vector,tool,marquee,tool']:On the Fireworks tools palette, click the Rectangle Tool, under the Vector tools not the  marquee tool.
+['see,figure']:(See Figure 16.)
+['click,drag,canvas,draw,rectangle,pixel,wide,high,press,return,key']:Then click and drag on the canvas to draw a rectangle that is 690 pixels wide by 65 high and press the return key.
+['go,window,info,check,dimension']:Go to Window>Info and check the dimensions.
+['necessary,adjust,width,height,dimension,typing,number,width,box,height,box,info,window,press,return']:If necessary, adjust the width and height dimensions by typing the numbers 690 into the Width box and 65 in the Height box in the Info window, then press return.
+['']:4.
+['color,rectangle,first,make,sure,selected']:To color your rectangle, first make sure it is selected.
+['use,selection,tool,little,black,arrow,top,tool,palette,select,tool,click,rectangle']:To do this, use the Selection Tool (the  little black arrow at the top of the tools palette, under the Select tools) to click on the rectangle.
+['selected,youll,notice,blue,handle,corner,allow,resize,rectangle']:When it is selected, youll notice that it has blue handles at each corner that allow you to resize the rectangle.
+['see,figure,web,design,dreamweaver,selection,tool,click,marquee,tool']:(See Figure 16)  Web Design with Dreamweaver - 16  Selection Tool  Do not click Marquee Tool.
+['rectangle,tool,text,tool,fill,color,figure,web,design,dreamweaver']:Rectangle Tool  Text Tool  Fill Color  Figure 16  Web Design with Dreamweaver - 17  5.
+['rectangle,selected,click,fill,color,tool,color,palette,pop']:Now that the rectangle is selected, click on the Fill Color tool and the color palette will pop up.
+['see,figure']:(See Figure 17.)
+['click,field,type,press,return,key']:Click in the field and type in #990000 and press the return key.
+['see,figure']:(See Figure 18.)
+['figure,note,color,represented,character,hexadecimal,value,web']:Figure 17  NOTE Colors are represented as 6-character hexadecimal values on the Web.
+['dreamweaver,firework,default,color,palette,consist,web,safe,color']:The Dreamweaver and Fireworks default color palettes consist of the 216 Web safe colors.
+['web,safe,color,display,correctly,browser,macintosh,window,machine']:Web safe colors display correctly in browsers on both Macintosh and Windows machines.
+['working,text,alignment']:Working with Text and Alignment  1.
+['rectangle,selected,click,text,tool,click,top,rectangle']:With your rectangle selected, click the Text Tool and then click on top of the rectangle.
+['cant,see,window,open,allows,change,font,property,make,sure,window,property,option,checked']:If you cant see a window open that allows you to change font properties, make sure that the Window>Properties option is checked.
+['give,property,inspector,window,allows,change,property,object,firework']:This gives you a Property Inspector window that allows you to change the properties of all objects in Fireworks.
+['see,figure']:(See Figure 18.)
+['']:2.
+['click,font,pull,menu,select,trebuchet,m,make,sure,white,selected,color,well,located,left,bold,button']:Click on the font pull down menu and select Trebuchet MS. Make sure that white is  selected in the color well, which is located to the left of the bold button.
+['choose,font,size,click,b,bold']:Choose 44 for the font size and click B for bold.
+['type,name,rectangle,click,pointer,tool,select,text,box,contains,name']:Now type your name in the rectangle and click on the Pointer Tool to select the text box that contains your name.
+['figure']:Figure 18  3.
+['align,text,center,rectangle,vertically,horizontally,click,name,pointer,tool,hold,shift,key,click,rectangle']:To align the text so that it is in the center of the rectangle, both vertically and horizontally,  click on your name with the Pointer Tool then hold down the Shift key and click the rectangle.
+['ensures,item,selected']:This ensures that both items are selected.
+['youll,know,youve,got,object,blue,border,resizing,handle']:Youll know youve got them both if each object has a blue border and resizing handles.
+['go,modify,align,center,vertical,center,text,left,right,inside,rectangle']:Now go to Modify>Align > Center Vertical to center the text left to right inside the rectangle.
+['object,still,selected,go,modify,align,center,horizontal,center,text,top,bottom']:With both objects still selected, go to Modify>Align> Center Horizontal to center the text top to bottom.
+['web,design,dreamweaver,adding,effect']:Web Design with Dreamweaver - 18  Adding Effects  1.
+['youll,add,effect,graphic']:Now youll add some effects to the graphic.
+['make,sure,rectangle,selected,also,make,sure,property,inspector,visible']:Make sure the rectangle is selected, and also  make sure that the Property Inspector is visible.
+['visible,go,window,property,make,sure,property,inspector,checked']:If it is not visible, go to Window>Properties , and make sure that the Property Inspector is checked.
+['property,inspector,click,sign,next,word,effect,open,pull,menu,select,bevel,emboss,inner,bevel']:In the Property Inspector, click on the + sign next to the word Effects to open the pull-down menu, and select Bevel and Emboss>Inner Bevel.
+['see,figure']:(See Figure 19.)
+['figure']:Figure 19  2.
+['change,inner,bevel,setting,press,return,key']:Change the Inner Bevel setting from 10 to 2, then press the return key.
+['see,figure']:(See Figure 20.)
+['figure']:Figure 20  3.
+['rectangle,still,selected,click,effect,pull,menu,select,shadow,glow,drop,shadow']:With the rectangle still selected, click on the Effects pull down menu and select Shadow and  Glow>Drop Shadow.
+['press,return,key']:Then press the return key.
+['notice,graphic,shadow,underneath']:Notice that your graphic now has a shadow underneath it.
+['leave,setting']:Leave the settings as they are.
+['see,figure']:(See Figure 21.)
+['web,design,dreamweaver,figure,note,youd,like,adjust,effect,setting,later,select,object,look,effect,panel,property,inspector']:Web Design with Dreamweaver - 19  Figure 21  NOTE If youd like to adjust any effect settings later, select the object and look for the Effect panel in the Property Inspector.
+['temporarily,turn,effect,click,check,box,deselect']:To temporarily turn off an effect, click in its check box to deselect it.
+['delete,effect,click,click,small,minus,sign,top,effect,panel']:To delete an effect, click on it then click the small minus sign on the top of the Effect panel.
+['see,figure']:(See Figure 22.)
+['disable,enable,effect,delete,effect,info,edit,effect,figure,good,news,never,stick,choice,make']:Disable/Enable Effect  Delete Effect  Info/Edit Effect  Figure 22  The good news is that you never have to stick with the choices you make now.
+['saving,two,version,graphic,original,editable,version,png,firework,native,file,format,gif,version,optimize,use,export,web']:You will be saving two versions of this graphic the original, editable version, as a .png (Fireworks native file format), and a .gif version, which you will optimize for use on and export to the Web.
+['saving,original']:Saving Your Original  1.
+['always,trim,canvas,remove,unnecessary,canvas,space,saving,file']:Always trim the canvas to remove any unnecessary canvas space before saving your files.
+['simply,select,modify,canvas,trim,canvas']:To do this, simply select Modify>Canvas>Trim Canvas.
+['firework,automatically,trim,canvas,smallest,possible,size,without,affecting,image']:Fireworks will automatically trim the canvas to the smallest possible size without affecting your image.
+['note,trimming,canvas,important,help,create,smaller,file']:NOTE Trimming the canvas is important because it will help to create a smaller file.
+['smaller,file,load,quickly,user,browser']:A smaller file will load more quickly on a users browser.
+['']:2.
+['go,file,save,select,web,workshop,folder,click,open,click,new,folder,button,name,folder,original,click,create']:Go to File>Save, select the web_workshop folder click Open, then click the New folder button, name the folder originals and click Create.
+['name,file,titlebar,png,click,save']:Now name your file titlebar.png and click Save.
+['leave,file,titlebar,png,open,use,next,section,optimizing,graphic,web']:Leave the file titlebar.png open to use in the next section, Optimizing Graphics for the Web.
+['note,item,original,folder,going,posted,web,site']:NOTE The items in the originals folder are not going to be posted on your Web site.
+['however,best,keep,file,related,site,organized,together']:However, its best to keep all of the files related to a site organized together.
+['storing,web,design,dreamweaver,everything,web,workshop,folder,allow,firework,dreamweaver,work,integrated,manner']:By storing  Web Design with Dreamweaver - 20  everything in the web_workshop folder, it will allow Fireworks and Dreamweaver to work in a more integrated manner.
+['something,explore,later,workshop']:This is something you will explore later in this workshop.
+['optimizing,graphic,web,optimizing,graphic,involves,finding,right,combination,fast,download,speed,image,quality']:Optimizing Graphics for the Web Optimizing graphics involves finding the right combination of fast download speed and image quality.
+['firework,provides,many,method,creating,web,friendly,graphic,including,trimming,canvas,size,decreasing,number,color,gif,setting,compression,jpg,image']:Fireworks provides many methods for creating Web-friendly graphics including trimming canvas size, decreasing the number of colors in a .gif and setting compression for a .jpg image.
+['']:1.
+['file,titlebar,png,open,go,file,export,preview']:With the file titlebar.png open, go to File>Export Preview.
+['click,preview,button,youll,able,preview,different,optimization,setting']:Click the 4 Preview button so  youll be able to preview different optimization settings.
+['see,figure']:(See Figure 23.)
+['color,setting,figure']:Color Settings  Figure 23  2.
+['select,adaptive']:Select Adaptive.
+['compare,file,size,quality,setting,color,color,color,color,clicking,pane,turn,selecting,specified,color,setting']:Then compare file size and quality for settings of 64 colors, 32 colors, 16  colors and 8 colors by clicking in each pane in turn and selecting the specified color settings.
+['notice,drop,shadow,appears']:Notice how the drop shadow appears.
+['click,pane,color,setting,click,export']:Click the pane with the 64 color setting and click Export.
+['']:3.
+['name,image,titlebar,gif,select,web,workshop,folder,double,click,asset,folder,click,save']:Name your image titlebar.gif, select the web_workshop folder, double-click the assets  folder then click Save.
+['']:4.
+['save,close,original,file,titlebar,png,gif,color,palette,adaptive,custom,palette,created,actual,color,document']:Save and close the original file titlebar.png  GIF Color Palettes  Adaptive - custom palette created from the actual colors in the document.
+['adaptive,palette,web,design,dreamweaver,often,produce,highest,quality,image,least,file,size']:Adaptive palettes most  Web Design with Dreamweaver - 21  often produce the highest quality image with the least file size.
+['web,adaptive,adaptive,palette,color,close,web,safe,color,converted,closest,web,safe,color']:Web Adaptive - adaptive palette in which colors that are close to Web safe colors are converted to the closest Web safe color.
+['web,palette,color,common,window,macintosh,computer']:Web 216 - palette of the 216 colors common to both Windows and Macintosh computers.
+['palette,often,called,web,safe,browser,safe,palette,produce,fairly,consistent,result,various,web,browser,either,platform,viewed,bit,monitor']:This palette is often called a Web safe or browser-safe palette because it produces fairly consistent results in various Web browsers on either platform when viewed on 8-bit monitors.
+['exact,contains,exact,color,used,image']:Exact - contains the exact colors used in the image.
+['image,containing,fewer,color,may,use,exact,palette']:Only images containing 256 or fewer colors may use the Exact palette.
+['image,contains,color,palette,switch,adaptive']:If the image contains more than 256 colors, the palette switches to Adaptive.
+['macintosh,window,palette,contains,color,defined,window,macintosh,platform,standard,respectively']:Macintosh, Windows - each palette contains the 256 colors defined by the Windows or Macintosh platform standards, respectively.
+['grayscale,palette,fewer,shade,gray']:Grayscale - palette of 256 or fewer shades of gray.
+['choosing,palette,convert,exported,image,grayscale']:Choosing this palette converts the exported image to grayscale.
+['black,white,two,color,palette,consisting,black,white']:Black and White - A two-color palette consisting only of black and white.
+['uniform,mathematical,palette,based,rgb,pixel,value']:Uniform - mathematical palette based on RGB pixel values.
+['custom,palette,modified,loaded,external,palette,gif,file']:Custom - palette that has been modified or loaded from an external palette or a GIF file.
+['web,design,dreamweaver,creating,navigation,button,make,sure,youre,using,firework,mx,application,performing,task']:Web Design with Dreamweaver - 22  Creating Navigation Buttons Make sure that youre using your Fireworks MX application when performing this task.
+['creating,navigation,button,special,feature,called,rollover']:You will be creating navigation buttons with a special feature called a rollover.
+['']:1.
+['go,file,new']:Go to File>New.
+['']:2.
+['enter,size,pixel,wide,pixel,high,resolution']:Enter a size of 300 pixels wide by 500 pixels high, a resolution of 72.
+['choose,white,canvas,color']:Choose a White Canvas  Color.
+['click,ok']:Click OK.  3.
+['select,text,tool,tool,palette,click,somewhere,screen,make,text,box,appear']:Select the Text Tool (A) from the tool palette, click somewhere on the screen to make the text box appear.
+['type,home,resume,portfolio,contact']:Now type Home, Resume, Portfolio, Contact.
+['see,figure']:(See Figure 24.
+['note,make,sure,press,return,key,twice,typing,word,except,last']:)NOTE Make sure to press the return key twice after typing each word, except the last.
+['use,property,inspector,edit,style,text,selecting,window,property']:Use the Property Inspector, to edit the style of your text, by selecting Windows>Properties.
+['select,text,choose,tahoma,font,size,click,b,bold,click,fill,color,button,left,bold,button,type,value,click,fill,property']:Select all the text, Choose Tahoma, font size 24, click B for bold, then click the fill color (the button to the left of the Bold button) and type in a value of #900000 and click on Fill Properties.
+['see,figure,figure']:(See Figure 25 and 26)        Figure 24  4.
+['use,property,inspector,edit,style,text,selecting,window,property']:Use the Property Inspector, to edit the style of your text, by selecting Windows>Properties.
+['select,text,choose,tahoma,font,size,click,b,bold,click,fill,color,web,design,dreamweaver,button,left,bold,button,type,value']:Select all the text, Choose Tahoma, font size 24, click B for bold, then click the fill color (the  Web Design with Dreamweaver - 23  button to the left of the Bold button) and type in a value of #900000.
+['see,figure']:(See Figure 25.)
+['click,select,tool,close,fill,color,option,window']:Click the select tool to close the fill color options window.
+['']:5.
+['go,select,superselect']:Go to Select>SuperSelect.
+['']:6.
+['effect,palette,appear,property,inspector']:The Effects palette will now appear in the Property Inspector.
+['click,sign,select,shadow,glow,drop,shadow']:Click the +sign, select Shadow  and Glow >Drop Shadow.
+['setting,distance,softness']:The settings should be 3 for distance and 2 for softness.
+['see,figure']:(See Figure 26.)
+['click,outside,effect,box,close']:Click outside the effects box to close it.
+['distance,softness,figure']:Distance  Softness  Figure 25  7.
+['go,frame,palette,click,pull,menu,button,top,right,palette,select,duplicate,frame']:Go to the Frames palette), click the pull down menu button at the top right of the palette, and  select Duplicate Frame.
+['dont,see,palette,go,window,frame']:If you dont see the palette, go to Window>Frames .
+['see,figure']:(See Figure 26.)
+['figure']:Figure 26  8.
+['duplicate,frame,dialog,box,make,sure,indicates,frame,added,click,ok']:At the Duplicate Frame dialog box, make sure that it indicates that 1 frame is being added, then  click OK.
+['web,design,dreamweaver']:Web Design with Dreamweaver - 24  9.
+['select,text,edit']:Select all of the text to edit it.
+['']:10.
+['property,inspector,click,fill,color,type,press,return,key']:In the Property Inspector, click the fill color, type #333333 and press the return key.
+['']:11.
+['click,frame,frame,palette,window']:Click on Frame 1 in the frames palette window.
+['']:12.
+['click,slice,tool,tool,palette,click,drag,even,slice,around,word,frame']:Click the Slice Tool on the tool palette then click and drag even slices around each of the words  on Frame 1.
+['see,figure,make,sure,slice,long,enough,cover,longest,word,portfolio']:(See Figure 27) Make sure the slice is long enough to cover the longest word (Portfolio).
+['figure']:Figure 27  13.
+['click,pointer,tool,click,one,time,home,slice']:Click on the Pointer Tool, then click one time on the Home slice.
+['']:14.
+['property,inspector,changed,object,palette']:The Property Inspector has now changed to an Object palette.
+['enter,slice,name,link,alt,information,indicated,figure,home,slice']:Enter the Slice name, Link, and Alt information as indicated in Figure 28 for the Home slice.
+['note,dont,make,change,information,width,height,x,box,screen']:Note Dont make any changes to the information in the width height and x and y boxes on your own screen.
+['figure']:Figure 28  15.
+['click,resume,slice,select']:Click once on the Resume slice to select it.
+['enter,slice,name,link,alt,information,indicated,figure,resume,slice']:Then, enter the Slice name, Link, and Alt  information as indicated in Figure 29 for the Resume slice.
+['note,dont,make,change,information,width,height,x,box,screen']:Note Dont make any changes to the information in the width height and x and y boxes on your own screen.
+['figure,web,design,dreamweaver']:Figure 29  Web Design with Dreamweaver - 25  16.
+['click,portfolio,select']:Click once on Portfolio to select it.
+['enter,slice,name,link,alt,information,indicated,figure,portfolio,slice']:Then, enter the Slice name, Link, and Alt information as  indicated in Figure 30 for the Portfolio slice.
+['note,dont,make,change,information,width,height,x,box,screen']:Note Dont make any changes to the information in the width height and x and y boxes on your own screen.
+['figure']:Figure 30  17.
+['click,contact,slice,select']:Click once on the Contact slice to select it.
+['enter,slice,name,link,alt,information,indicated,figure,contact,slice']:Then, enter the Slice name, Link, and Alt  information as indicated in Figure 31 for the Contact slice.
+['note,dont,make,change,information,width,height,x,box,screen']:Note Dont make any changes to the information in the width height and x and y boxes on your own screen.
+['figure']:Figure 31  18.
+['click,home,slice,select']:Click once on the Home slice to select it.
+['']:19.
+['click,point,file,icon,appears,homeslice,select,hold,mouse,button']:Click on the point to file icon    that appears on the homeslice when you select it, and hold down the mouse button.
+['icon,turn,fist,mouse,button,still,held,drag,completely,slice,white,space,right,back,onto,slice,see,blue,line']:When the icon turns to a fist, with the mouse button still held down, drag completely off of the slice to the white space on the right and then back onto the slice until you see a blue line.
+['see,figure']:(See Figure 32.)
+['figure']:Figure 32  20.
+['click,ok,swap,image,frame']:Click OK to Swap Image from Frame 2.
+['see,figure']:(See Figure 33.)
+['web,design,dreamweaver,figure']:Web Design with Dreamweaver - 26        Figure 33  21.
+['repeat,step,resume,portfolio,contact,slice']:Repeat steps 19-21 for the Resume, Portfolio and Contact slices.
+['']:22.
+['click,onto,canvas,go,modify,canvas,trim,canvas']:Click onto the canvas, and then go to Modify>Canvas>Trim Canvas.
+['']:23.
+['go,file,export,preview,choose,color,click,export']:Then go to File>Export Preview, choose 32 colors, and click Export.
+['']:24.
+['name,file,nav,htm']:Name your file nav.htm.
+['save,dialog,box,uncheck,include,area,without,slice,click,select,put,image,subfolder,browse,asset,folder,select,choose,click,save']:In the save dialog box, uncheck Include Areas without Slices, click to  select Put Images in Subfolder, browse for the assets folder, select Choose, then click Save.
+['see,figure']:(See Figure 34.)
+['']:25.
+['go,file,save,name,file,navbar,png,save,original,folder,inside,web,workshop,folder']:Go to File>Save, name the file navbar.png and save it in the originals folder inside the  web_workshop folder.
+['close,file,quit,firework']:Close the file and quit Fireworks.
+['figure,web,design,dreamweaver,importing,firework,html,dreamweaver']:Figure 34  Web Design with Dreamweaver - 27  Importing Fireworks HTML into Dreamweaver  1.
+['launch,dreamweaver']:Launch Dreamweaver.
+['go,site,open,site,select,web,design,workshop']:Go to Site>Open Site and select Web Design Workshop.
+['site,already,opened,running,background,working,firework,may,need,refresh,site,clicking,little,circular,arrow,top,middle,site,window']:If this site  was already opened and running in the background while you were working in Fireworks, you may need to refresh the site by clicking on the little circular arrow at the top-middle of the site window.
+['']:2.
+['double,click,index,html,file,open']:Double-click the index.html file to open it 3.
+['click,top,row,table,click,tr,tag,selector,bottom,window']:Now click in the top row of the table, and then click the <tr> in the tag selector down at the  bottom of the window.
+['tr,represents,table,row,select,entire,first,row,table']:(The <tr> represents the Table Row and will select the entire first row of the table.)
+['see,figure']:(See Figure 35.)
+['']:4.
+['row,selected,click,merge,cell,icon,property,inspector']:With the row selected, then click the Merge cells icon in the Properties Inspector.
+['see,figure']:(See  Figure 36.)
+['figure,merge,cell,figure']:Figure 35  Merge Cells  Figure 36  5.
+['click,newly,merged,top,row,click,insert,image,icon,common,sub,panel,insert,panel,browse,titlebar,gif,asset,folder']:Click in the newly merged top row, and then click on the Insert Image icon   Common sub panel of the Insert panel and browse for the titlebar.gif in the assets folder.
+['choose,window,insert,panel,visible,top,screen']:(Choose Window>Insert if this panel is not visible at the top of the screen.)
+['']:on the  6.
+['click,alt,field,property,inspector,type,name']:Click in the Alt Field on the Properties Inspector and type your name.
+['see,figure']:(See Figure 37.)
+['alt,field,figure,center,web,design,dreamweaver,note,space,special,character,upper,case,letter,allowed,alt,tag']:Alt Field  Figure 37  Center  Web Design with Dreamweaver - 28  NOTE Spaces, special characters and upper-case letters are allowed in alt tags.
+['alt,tag,used,provide,information,image']:Alt tags are used to provide information about images.
+['alt,tag,text,displayed,user,image,turned,browser']:The alt tag text will be displayed if the user has images turned off in the browser.
+['alt,tag,also,important,compliance,section,american,disability,act']:Alt tags are also important for compliance with section 508 of the Americans with Disabilities Act.
+['alt,tag,read,aloud,screen,reader,software']:Alt tags are read aloud by screen reader software.
+['accessibility,extension,dreamweaver,found,http,www,macromedia,com,macromedia,accessibility,see,also,http,bobby,watchfire,com,ada,compliance,requirement']:An accessibility extension for Dreamweaver can be found at http//www.macromedia.com/macromedia/accessibility See also http//bobby.watchfire.com for ADA compliance requirements.
+['']:7.
+['click,center,icon,property,inspector']:Click the Center icon on the Properties Inspector.
+['see,figure']:(See Figure 38.)
+['']:8.
+['click,second,cell,middle,row,click,insert,image,icon,select,quad,jpg,file']:Click in the second cell in the middle row, click the Insert Image icon and select the  quad.jpg file.
+['click,choose']:Click Choose.
+['']:9.
+['type,stanford,university,quad,alt,field,click,center,icon,property,inspector']:Type Stanford University Quad in the Alt field.. Click the Center icon on the Properties  Inspector.
+['click,left,arrow,key,move,left,quag,jpg,remaining,cell']:Click the left arrow key to move to the left of the quag.jpg while remaining in the same cell.
+['']:10.
+['click,vert,default,pop,menu,choose,top,vert,ical,orientation,image,set,width']:Click on Vert Default pop-up menu and choose Top for the Vert(ical) orientation for the image and set the width to 120.
+['see,figure']:(See Figure 38.)
+['click,left,column,navigation,bar,inserted,select,top,vertical,orientation,width']:Then click in the left-most column where the navigation bar will be inserted and select Top for the vertical orientation and 120 for the width.
+['vertical,orientation,figure,note,column,left,collapse,click,left,arrow,key,keyboard,move,cursor,left,column']:Vertical Orientation  Figure 38  NOTE If the column on the left collapses, click the left arrow key on the keyboard to move the cursor into the left column.
+['']:11.
+['click,insert,firework,html,icon,common,sub,panel,insert,panel,browse,nav,htm,file,web,workshop,asset,folder']:Now click the Insert Fireworks HTML icon    on the Common sub panel of the Insert  panel and browse for the nav.htm file in the web_workshop>assets folder.
+['navigation,bar,still,selected,go,align,pull,menu,property,inspector,change,default,left']:With the navigation bar still selected go to the Align pull down menu on the Properties Inspector and change it from Default to Left.
+['see,figure']:(See Figure 39.)
+['align,left,figure,web,design,dreamweaver']:Align Left  Figure 39  Web Design with Dreamweaver - 29  12.
+['finally,click,last,cell,bottom,right,select,center,icon,inspector,type,name,type,copyright,symbol,mac,user,hold,option,key,g,window,user,hold,alt,property']:Finally click the last cell on the bottom right, select the center icon   Inspector and type the  2003 Your Name To type the copyright symbol Mac Users - Hold down the option key +g Windows Users - Hold down alt+0169   on the Properties  13.
+['hold,shift,key,press,return,single,space,effect,called,line,break,html,type,page,last,modified']:Now hold down the shift key and press return for a single-space effect (called a line break in  HTML) and type This page was last modified on.
+['']:14.
+['cursor,positioned,exactly,one,space,word,text,click,common,sub,panel,insert,panel,displayed,date,icon,top,workspace']:With the cursor positioned exactly one space after the word on in your text, click on the  on the Common sub panel of the Insert panel Which should be displayed at  date icon  the top of your workspace.
+['go,window,insert']:If not go to Windows>Insert.
+['dialog,box,appears,select,date,format,prefer,check,box,say,update,automatically,save']:In the dialog box that appears, select the date format you prefer, and then check the box that says Update Automatically on Save.
+['checking,box,force,dreamweaver,change,date,every,time,save,document']:Checking this box will force Dreamweaver to change the date every time you save the document.
+['clicking,ok,notice,current,date,appears,text']:After clicking OK, notice that the current date appears in your text.
+['']:15.
+['select,text,cell,choose,verdana,arial,helvetica,sans,serif,font,size']:Select all of the text in the cell; choose Verdana, Arial, Helvetica, sans-serif font and 2 for  the size.)
+['leave,horizontal,orientation,default']:Leave the horizontal orientation at Default.
+['set,width,change,vertical,orientation,top']:Set the Width at 639 and change the vertical orientation to Top.
+['see,figure']:(See Figure 40.)
+['figure,note,browser,display,font,available,user,machine']:Figure 40  NOTE Browsers can only display the fonts that are available on the users machine.
+['best,use,font,reside,system,time,arial,helvetica']:So its best to use fonts that reside in the system such as Times, Arial or Helvetica.
+['verdana,georgia,font,designed,specifically,read,screen,theyre,always,good,choice']:Verdana and Georgia are fonts designed specifically to be read on screen so theyre always good choices.
+['youd,like,use,custom,font,may,create,text,firework,export,gif']:If youd like to use custom fonts, you may create your text in Fireworks and export it as a gif.
+['also,text,appear,larger,window,machine,macintosh,system']:Also, your text will appear larger on Windows machines than it does on Macintosh systems.
+['general,font,size,text,body,page,best,viewing,web']:In general, a font size of 2 for text in the body of the page is best for viewing on the Web.
+['remember,user,configure,browser,customize,color,font,size']:Remember that users can configure their browsers to customize colors and font sizes.
+['']:16.
+['go,file,save,press,f,key,preview,page,inyour,internet,browser']:Go to File>Save then press the F12 key to preview the page inyour internet browser.
+['see,figure']:(See  Figure 41.)
+['click,close,box,upper,left,corner,browser,window']:Click the close box in the upper left corner of the browser window.
+['web,design,dreamweaver,figure,adding,navigation,link,youve,completed,index,html,page,youll,need,set,page,create,link,using,navigation,bar']:Web Design with Dreamweaver - 30                 Figure 41  Adding Navigation Links Now that youve completed the index.html page, youll need to set up your other pages and create links using your navigation bar.
+['youll,start,making,placeholder,file,establish,link']:Youll start by making placeholder files to establish your links.
+['']:1.
+['go,file,new,choose,file,save,name,file,resume,html,remember,lower,case,special,character,save,web,workshop,folder']:Go to File>New then choose File>Save and name the file resume.html (remember lower- case and no special characters) and save it in the web_workshop folder.
+['repeat,process,create,save,portfolio,html,contact,html,placeholder,page']:Repeat this process to create and save your portfolio.html and contact.html placeholder pages.
+['']:2.
+['open,index,html,file,click,home,button,navigation,bar,select']:Open the index.html file and click the Home button of your navigation bar to select it.
+['click,browse,file,icon,next,link,field,select,index,html,web,workshop,folder,click,save']:Click  the Browse for File icon next to the Link field, select index.html in the web_workshop folder and click Save.
+['enter,home,alt,field']:Enter Home in the Alt field.
+['see,figure']:(See Figure 42.)
+['figure,alt,text,browse,file,web,design,dreamweaver']:Figure 42  Alt Text  Browse for File  Web Design with Dreamweaver - 31  3.
+['repeat,step,link,resume,portfolio,contact,page,navigation,bar']:Repeat the steps to link the Resume, Portfolio and Contact pages to your navigation bar.
+['']:4.
+['element,page,set,click,quad,jpg,image,press,delete,key,keyboard']:Now that all the elements of your page are set up, click on the quad.jpg image and press the  delete key on your keyboard.
+['']:5.
+['go,file,save,name,file,resume,html']:Go to File>Save As and name the file resume.html.
+['click,replace,order,save,placeholder,page']:Click Replace in order to save over  your placeholder page.
+['repeat,step,going,file,save,saving,portfolio,html,contact,html,file']:Repeat the steps by going to File>Save As and saving your portfolio.html and contact.html files.
+['note,cid,easy,method,ensuring,page,consistent,look,feel']:NOTE(cid1) This is an easy method for ensuring that your pages are consistent in look and feel.
+['work,well,small,site']:It works well for small sites.
+['large,site,want,control,content,ability,update,page,quickly,use,template']:If you have a large site and want more control over the content and the ability to update pages quickly you should use templates.
+['information,go,help,using,dreamweaver,check,template,section,information']:For more information go to Help>Using Dreamweaver and check out the Templates section for more information.
+['importing,cleaning,word,html']:Importing and Cleaning Up Word HTML  1.
+['go,file,open']:Go to File>Open.
+['select,word,htm,file,acomp,hd,tutorial,web,design,folder']:Then select word.htm file in the Acomp HD>Tutorials>Web Design  folder.
+['file,word,htm,web,page,generated,microsoft,word']:(The file word.htm is a Web page generated from Microsoft Word.)
+['']:2.
+['notice,yellow,icon']:Notice the yellow icons.
+['represent,microsoft,specific,tag']:They represent Microsoft-specific tags.
+['eliminate,tag,go,command,clean,word,html']:To eliminate the tags go to  Commands>Clean Up Word HTML.
+['see,figure']:(See Figure 43.)
+['dialog,box,appears,uncheck,clean,cs,box,click,ok,retain,word,file,cascading,style,sheet,formatting']:When the dialog box appears, uncheck the Clean up CSS box and click OK. (This will retain most of the Word files Cascading Style Sheet formatting.)
+['see,figure']:(See Figure 43.)
+['web,design,dreamweaver,figure']:Web Design with Dreamweaver - 32  Figure 43  3.
+['go,file,open,select,resume,html,file']:Now go to File>Open and select your resume.html file.
+['go,cleaned,word,page,select,edit,select,click,text,drag,resume,html,file,drop,right,hand,column,table']:Go to the cleaned up Word page, and select Edit>Select All, then click on the text, drag it over to your resume.html file and drop it in the right-hand column of the table.
+['']:4.
+['click,file,save,press,f,preview,page,browser']:Click File>Save and then press F12 to preview the page in the browser.
+['inserting,content']:Inserting Content  1.
+['go,file,open,select,portfolio,html']:Go to File>Open and select portfolio.html.
+['']:2.
+['click,right,hand,column,type,web,site,press,return,twice']:Click in the right hand column and type Web Sites then press return twice.
+['type,presentation,press,return,twice,type,project,press,return,twice']:Type  Presentations and press return twice, and type Projects then press return twice.
+['']:3.
+['select,text,choose,verdana,arial,helvetica,sans,serif,size,bold,center,icon,property,inspector']:Select all of your text, choose Verdana, Arial, Helvetica, sans serif, size 2 and Bold and the  center icon    from the Properties Inspector.
+['']:4.
+['go,file,save,save,change']:Go to File>Save and save your changes.
+['web,design,dreamweaver,inserting,email,link']:Web Design with Dreamweaver - 33   Inserting an Email Link  1.
+['go,file,open,select,contact,html,click,right,hand,column,select,center,icon,type,school,address,press,return,twice,type,office,press,return,twice,type,email,press,return']:Go to File>Open, select contact.html, click in the right-hand column select the center icon,  type School Address then press return twice, and type Office then press return twice and type Email then press return once.
+['']:2.
+['select,text,choose,verdana,arial,helvetica,sans,serif,size,bold,property,inspector']:Select all of your text and choose Verdana, Arial, Helvetica, sans serif, size 2 and Bold  from the Properties Inspector.
+['']:3.
+['document,window,click,word,email,type,email,address']:In the Document Window, click under the word Email and type out your email address.
+['highlight,address,go,link,section,property,inspector,window']:Highlight this address and go to the link section of the Properties Inspector Window.
+['type,mailto,youremailaddress']:Type mailtoyouremailaddress.
+['see,figure']:(See Figure 44.)
+['']:4.
+['go,file,save,save,change']:Go to File>Save and save your changes.
+['close,file']:Then close the file.
+['figure,getting,site,web,every,stanford,student,valid,sunet,id,receives,web,space,leland,server']:Figure 44  Getting Your Site on the Web Every Stanford student with a valid SUNet ID receives Web space on the Leland servers.
+['information,setting,leland,space,go,http,acomp,stanford,edu,acpubs,subjdocs,html,internet,select,one,setting,web,space,document,mac,window']:For information about setting up your Leland space, go to http//acomp.stanford.edu/acpubs/subjdocs.html#internet and select one of the Setting Up Your Web Space documents (Mac or Windows.).
+['']:1.
+['youve,set,web,space,leland,simply,go,macleland,icon,desktop,select,mount,home,folder']:Once youve set up your Web space on Leland, simply go to the MacLeland icon on your  desktop and select Mount Home Folder.
+['see,figure']:(See Figure 45.)
+['figure,web,design,dreamweaver']:Figure 45  Web Design with Dreamweaver - 34  2.
+['home,folder,icon']:When the Home folder icon  3.
+['double,click,www,folder,open']:Double-click the WWW folder to open it.
+['']:4.
+['open,web,workshop,folder,select,file,except,original,drag,appears,desktop,double,click']:Now open your web_workshop folder, select all the files except for the originals and drag   appears on your desktop, double-click it.
+['www,folder']:them into the WWW folder.
+['']:5.
+['go,http,www,stanford,edu,yoursunetid,see,home,page']:If you go to http//www.stanford.edu/~yoursunetid, you should see your home page.
+['information,assistance,ask,consultant,assistance,technology,service,desk,second,floor,meyer,library,send,email,consult,acomp,stanford,edu']:For More Information and Assistance Ask a consultant for assistance at the Technology Services Desk on the second floor of Meyer Library or send email to consult@acomp.stanford.edu.
+['web,design,dreamweaver']:Web Design with Dreamweaver - 35
